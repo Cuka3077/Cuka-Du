@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cuka3077
 - 👀 I’m interested in playing basketball and NBA.
-- 🌱 I’m currently learning Java, Python and PyGame.
-- 💞️ I’m looking to collaborate on PyGame
+- 🌱 I’m currently learning Java, Python and C++.
 - 📫 You can contact me through my email. My email is 1319858131@qq.com
 
 <!---
